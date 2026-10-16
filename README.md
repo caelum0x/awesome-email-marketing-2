@@ -54,6 +54,7 @@
 - **[Moosend](https://moosend.com/)** - A platform for automation and personalization in email campaigns.
 - **[Mailgun](https://www.mailgun.com/)** - An email API service with automation capabilities.
 - **[Omnisend](https://www.omnisend.com/)** - Automation tools designed for e-commerce marketing.
+- **[Scribase Mail Studio](https://github.com/caelum0x/scribase-mail-studio)** - Open-source, self-hosted transactional and broadcast email platform with a Resend-compatible API.
 
 ## Analytics and Tracking
 
